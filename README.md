@@ -1,8 +1,5 @@
 # Windows Apps Pack (+Beta) - APPX For Windows 8 Build 8400 Collection
 
-> 150+ Microsoft Store apps extracted as .appx / .msixbundle for offline installation. No Microsoft Store needed.
-> 150+ apps de la Microsoft Store extraídas como .appx para instalar sin internet.
-
 ---
 ### 📑 Table of Contents
 1. [Warning](#-warning)
