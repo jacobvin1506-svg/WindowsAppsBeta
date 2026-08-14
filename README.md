@@ -13,9 +13,9 @@
 9. [FAQ](#-faq)
 
 ---
-### ⚠️ WARNING - LEER ANTES DE INSTALAR
+### ⚠️ WARNING 
 
-**[EN] READ OR IT WILL FAIL:**
+**READ OR IT WILL FAIL:**
 1.  **GO TO `0. READ THIS - Install First` FIRST.** Install EVERYTHING inside, INCLUDING the .cer file. If you skip this, 100% of apps will close by themselves.
 2.  Some Apps Close By Themselves on first launch -> Open them twice. It's a cache issue.
 3.  Beta Apps are in `/3. Beta` - They may be unstable. That's why they are Beta.
